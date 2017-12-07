@@ -6,7 +6,7 @@ Siddharth's data science project  folder
 <br><  This is the best page of the day> </br>
 
 <br>*Seattle data  guru is about to get started *</br>
-(br>**Data Science rocks**</br>
+<br>**Data Science rocks**</br>
 <br></br>
 <br></br>
 <br>[link to yahoo](http://yahoo.com)</br>
