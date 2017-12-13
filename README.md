@@ -28,3 +28,5 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | OneDrive | [plugins/onedrive/README.md] [PlOd] |
 | Medium | [plugins/medium/README.md] [PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md] [PlGa] |
+
+*This rocks*
